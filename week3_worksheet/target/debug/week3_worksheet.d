@@ -1,0 +1,1 @@
+C:\RUST\RUST\week3_worksheet\target\debug\week3_worksheet.exe: C:\RUST\RUST\week3_worksheet\src\capitalize.rs C:\RUST\RUST\week3_worksheet\src\geometry.rs C:\RUST\RUST\week3_worksheet\src\lib.rs C:\RUST\RUST\week3_worksheet\src\main.rs
